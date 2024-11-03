@@ -52,7 +52,3 @@ BuyWatch Watch house, Online Store.
 - Login user
 - Guest login
 
-
-
-### 404 page
-- 404 page for unknown route  
